@@ -18,7 +18,7 @@ PRs for rounding out issues and improving the plugin are welcome.
 ## Installation
 
 - Current release
-`npm install https://github.com/gokadzev/capacitor-music-controls-plugin-new.git`
+`npm install https://github.com/mtrnik/capacitor-music-controls-plugin-new.git`
 
 ## iOS
 
